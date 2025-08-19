@@ -23,9 +23,6 @@ A lightweight WordPress plugin that lets you enable maintenance mode with a cust
 - Visitors who are not logged in will see your message
 - Admins and logged-in users with `manage_options` capability will bypass the maintenance screen
 
-## Example
-
-When enabled, visitors might see:
 
 ## Requirements
 
